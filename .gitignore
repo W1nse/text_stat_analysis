@@ -1,0 +1,49 @@
+# Python text analysis statistic
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+dist/
+build/
+eggs/
+parts/
+bin/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+cover/
+.testrepository
+*.sqlite
+
+# Virtual environment
+.venv/
+
+# Translations
+*.mo
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Other generated files
+__pycache__/
+```
